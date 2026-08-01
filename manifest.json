@@ -1,0 +1,8 @@
+{
+ "manifest": {
+  "version": 1,
+  "sha256": "a7433d8d109b85084ed34bc0619ce1a78f964e51c4930e92e935eb359e6f954b",
+  "url": "https://raw.githubusercontent.com/The23rdPresident/ezvisher-updates/main/bot_v2.py"
+ },
+ "sig": "KNVA54O6SVOAB632YE3CLQJQWEMP66GFS7N5BAVXNOMSDXGQF6OC2X55S3I3VK5VPCLW3CLMF3YJ3FDV7GDV65ANIF5KVTWBHJECQDI"
+}
